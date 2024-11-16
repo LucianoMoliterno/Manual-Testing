@@ -1,0 +1,68 @@
+Prueba de Caja Negra:
+
+Definición: Una técnica de prueba que evalúa el software sin conocer su estructura interna. Se centra en la funcionalidad del sistema sin preocuparse por la implementación.
+Clasificación en Testing: Técnica de prueba funcional.
+Prueba de Regresión:
+
+Definición: Una prueba que verifica si el software sigue funcionando correctamente después de realizar cambios o mejoras en el código.
+Clasificación en Testing: Técnica de prueba funcional.
+Prueba de Carga:
+
+Definición: Una prueba que evalúa el rendimiento del software bajo condiciones de carga, como una gran cantidad de usuarios simultáneos o una carga de trabajo intensiva.
+Clasificación en Testing: Técnica de prueba de rendimiento.
+Prueba de Caja Blanca:
+
+Definición: Una técnica de prueba que evalúa el software con conocimiento de su estructura interna, como el código fuente.
+Clasificación en Testing: Técnica de prueba estructural.
+Prueba de Aceptación del Usuario (UAT):
+
+Definición: Una prueba realizada por usuarios finales para determinar si el software cumple con sus necesidades y requisitos.
+Clasificación en Testing: Técnica de prueba funcional.
+Prueba de Seguridad:
+
+Definición: Un conjunto de pruebas que evalúa la seguridad del software, incluyendo pruebas de penetración, vulnerabilidad y amenazas.
+Clasificación en Testing: Técnica de prueba de seguridad.
+Prueba de Usabilidad:
+
+Definición: Una prueba que evalúa la facilidad de uso y la experiencia del usuario al interactuar con el software.
+Clasificación en Testing: Técnica de prueba de usabilidad.
+Prueba Estática:
+
+Definición: Una técnica de prueba que no involucra la ejecución del software, se centra en la revisión y análisis de la documentación, el código o los diseños.
+Clasificación en Testing: Técnica de prueba no funcional.
+Caso de Prueba:
+
+Definición: Una descripción detallada de cómo probar una funcionalidad o característica específica del software, incluyendo entradas, acciones y resultados esperados.
+Clasificación en Testing: Componente de diseño de prueba.
+Defecto de Software:
+
+Definición: Un error, fallo o desviación del comportamiento esperado del software que se encuentra durante las pruebas.
+Clasificación en Testing: Resultado de prueba.
+Planificación de Pruebas:
+
+Definición: La actividad que implica la preparación y el diseño de las pruebas antes de su ejecución, incluyendo la identificación de requisitos y la creación de casos de prueba.
+Clasificación en Testing: Actividad de gestión de pruebas.
+Ciclo de Vida de Prueba:
+
+Definición: El conjunto de fases y actividades que abarcan desde la planificación de pruebas hasta la finalización de las pruebas.
+Clasificación en Testing: Concepto de gestión de pruebas.
+Automatización de Pruebas:
+
+Definición: El uso de herramientas y scripts para ejecutar pruebas de forma automática, acelerando el proceso de prueba.
+Clasificación en Testing: Técnica de automatización de pruebas.
+Ejecución de Pruebas:
+
+Definición: La fase en la que se ejecutan los casos de prueba para evaluar el comportamiento del software.
+Clasificación en Testing: Actividad de ejecución de pruebas.
+Trazabilidad de Pruebas:
+
+Definición: La capacidad de seguir y documentar el progreso de las pruebas, desde la identificación de requisitos hasta la finalización de las pruebas.
+Clasificación en Testing: Concepto de gestión de pruebas.
+Informe de Errores:
+
+Definición: Un documento que detalla los errores encontrados durante las pruebas, incluyendo información sobre cómo reproducirlos y su severidad.
+Clasificación en Testing: Documento de prueba.
+Métricas de Calidad de Software:
+
+Definición: Indicadores cuantitativos utilizados para evaluar la calidad del software, como la cobertura de pruebas y el número de errores encontrados.
+Clasificación en Testing: Métricas de calidad.

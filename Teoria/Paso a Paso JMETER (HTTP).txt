@@ -1,0 +1,14 @@
+plan de pruebas -- añadir -- elementos de configuracion -- valores por defecto para peticion HTTP
+https - apache.org
+
+plan de pruebas -- añadir -- hilos -- grupos de hilos
+numero de hilos: x cantidad al igual que segundos y periodo
+
+grupo de hilos -- añadir -- muestrador -- peticion HTTP
+ruta: /foundation/  (la parte especifica de la pagina web donde haremos la prueba)
+
+plan de pruebas -- añadir -- receptor
+ver arbol de resultados
+reporte resumen
+
+IMPORTANTE: algunas paginas como clarin, si la estresamos nos pueden bloquear a nosotros mismos y la pagina para el resto funcionara igual.

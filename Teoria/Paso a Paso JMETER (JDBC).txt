@@ -1,0 +1,32 @@
+plan de pruebas -- añadir -- elementos de configuracion -- Configuracion de la Conexion JDBC
+1.Nombre de Variable: OpenCloud
+2.Configuracion de la Conexion a la Base de Datos (datos q nos da la empresa)
+	*URL:  jdbc:mysql://190.114.255.191:3306/testing?characterEncoding=utf8
+	*Clase: com.mysql.jdbc.Driver
+	*Nombre: testing
+	*Password: institutoweb
+
+Protocolo: jdbc
+Marca: mysql
+Servidor: 190.114.255.191
+Base de datos: testing
+Puerto: 3306
+Usuario: testing
+Juego de Caracteres: ?characterEncoding=utf8 (esto es por los caracteres segun el idioma de la pag)
+
+plan de pruebas -- añadir -- hilos -- grupos de hilos (SIEMPRE 1 PARA PROBAR POR POSIBLE ERROR)
+numero de hilos: x cantidad al igual que segundos y periodo
+
+grupo de hilos -- añadir -- muestrador -- peticion JBDC
+Nombre de Variable: OpenCloud
+Query:
+select * from personas
+
+
+plan de pruebas -- añadir -- receptor
+ver arbol de resultados
+reporte resumen
+
+IMPORTANTE: siempre consultar si la BD acepta conexiones EXTERNAS.
+EJEMPLO: en un servidor barato, 140 peticiones en 1 segundo, es lo max de memoria q soporta
+si vuelven a entrar una cantidad superior aunque sea en mayor tiempo, superara su limite y rechazara informacion.

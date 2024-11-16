@@ -1,0 +1,11 @@
+TDD es una metodología de desarrollo cuyo objetivo es crear primero las pruebas y luego escribir el software y luego probar si el software está funcionando de acuerdo a esas pruebas "pre-planeadas".
+
+BDD (Behavior Driven Development), también es una estrategia de desarrollo dirigido por comportamiento, que ha evolucionado desde TDD (Test Driven Development), y tampoco nació como una técnica de testing.
+
+Tanto en TDD como en BDD, las pruebas se deben definir antes del desarrollo, aunque en BDD, las pruebas se centran en el usuario y el comportamiento del sistema como un conjunto, a diferencia del TDD que se centra en funcionalidades específicas del software.
+
+¿Qué enfoque de testing debo aplicar? ¿TDD o BDD?
+
+Aunque TDD o BDD parecen muy similares, la principal diferencia entre ambas está en el alcance. TDD es una práctica de desarrollo, enfocada en cómo revisar el sistema y cómo debería funcionar. Mientras que BDD es un enfoque de equipo que hace hincapié en porqué debes revisar ese código y porqué se debería comportar de una forma u otra.
+
+En TDD el tester escribe los tests mientras que en BDD el usuario final, junto al resto del equipo multidisciplinario, escriben los tests.

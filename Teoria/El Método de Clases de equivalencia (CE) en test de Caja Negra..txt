@@ -1,0 +1,13 @@
+Consiste en dividir los valores de entrada en clases de datos para derivar casos de prueba.
+Se asume que el resultado de una prueba con un valor representativo de cada CE equivale a
+realizar la misma prueba con cualquier otro valor de la CE.
+Pasos para diseñar casos de prueba:
+		Identificar clases de equivalencia.
+		Identificar los casos de prueba. 
+		Minimizando no casos de prueba, considerar tantas condiciones como sea posible. 
+Pasos:
+Asignar a cada CE un representante único.
+Definir casos de prueba que cubran tantas CE válidas como sea posible. Repetir
+hasta que todas las CE estén cubiertas.
+Definir un caso de prueba para cubrir una única CE no válida. Repetir hasta que
+todas estén cubiertas.
